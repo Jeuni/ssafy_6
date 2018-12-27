@@ -30,8 +30,10 @@
 # 슬라이드 4
 
 ## 저의 별명은 김생입니다.
-![you1](img/you1.jpg)   
-<img src="img/you1.jpg" width="200">
+<img src="img/you1.jpg" width="400" height="400">
+### 저의 성격은 유생같이 얌전합니다.
+<img src="img/onchen.jpg" width="400" height="400">
+### 연말에는 온천에 갈 예정입니다.
 ---
 # 슬라이드 5
 
