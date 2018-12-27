@@ -37,7 +37,8 @@
 ---
 # 슬라이드 5
 
-<img src="img/IMG_0110.jpg" width="400" height="400"
+<img src="img/IMG_0110.jpg" width="400" height="400">
+
 이름 : 김지은 
 
 별명 : *즈니*
