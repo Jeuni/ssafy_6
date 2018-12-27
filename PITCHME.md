@@ -40,13 +40,13 @@
 # 연말에는 온천에 갈 예정입니다.
 
 ---
-# 슬라이드 5
+## 一筆揮之(일필휘지) 김지은
 이름 : 김지은 
 
 <img src="https://raw.githubusercontent.com/Jeuni/ssafy-6-hotlife/master/img/IMG_0110.JPG" width="400" height="400">
 
----
-
+--- 
+## 一筆揮之(일필휘지) 김지은
 별명 : *즈니*
 
 git : @github/Jeuni
