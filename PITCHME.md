@@ -5,7 +5,7 @@
 ---
 # 슬라이드 2
 
-![](https://github.com/Jeuni/ssafy-6-hotlife/blob/master/img/Team_Jang.JPG) {width: 200px}
+![](https://github.com/Jeuni/ssafy-6-hotlife/blob/master/img/Team_Jang.JPG)
 
 
 예 제가 팀장입니다. :p
@@ -30,8 +30,8 @@
 # 슬라이드 4
 
 ## 저의 별명은 김생입니다.
-![you](img/you.jpg)   
-{:.some-css-class width="200"}
+![you1](img/you1.jpg)   
+<img src="img/you1.jpg" width="200">
 ---
 # 슬라이드 5
 
