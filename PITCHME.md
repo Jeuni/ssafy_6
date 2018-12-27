@@ -7,7 +7,6 @@
 
 <img src="img/Team_Jang.JPG" width="100">
 
-
 ## 예 제가 팀장입니다. :p
 
 이름 : 이재우
@@ -37,7 +36,8 @@
 ---
 # 슬라이드 5
 
-<img src="img/IMG_0110.jpg" width="200">
+<img src="img/IMG_0110.jpg" width="400" height="400">
+
 이름 : 김지은 
 
 별명 : *즈니*
