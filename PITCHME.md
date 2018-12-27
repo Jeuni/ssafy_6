@@ -19,7 +19,9 @@
 # 슬라이드 5
 
 이름 : 김지은 :smile:
+
 별명 : *즈니*
+
 git : @github/Jeuni
 
 ---
