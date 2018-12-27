@@ -34,10 +34,14 @@
 ### 저의 성격은 유생같이 얌전합니다.
 <img src="img/onchen.jpg" width="400" height="400">
 ### 연말에는 온천에 갈 예정입니다.
----
-# 슬라이드 5
 
-<img src="img/IMG_0110.jpg" width="400" height="400">
+
+---
+이름 : 김지은
+
+<img src="img/IMG_0110.JPG" width="400" height="400">
+
+---
 
 이름 : 김지은 
 
