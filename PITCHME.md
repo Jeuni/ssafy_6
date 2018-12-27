@@ -38,10 +38,11 @@
 
 ---
 # 슬라이드 5
-
-<img src="img/IMG_0110.jpg" width="400" height="400">
-
 이름 : 김지은 
+
+<img src="https://raw.githubusercontent.com/Jeuni/ssafy-6-hotlife/master/img/IMG_0110.JPG" width="400" height="400">
+
+---
 
 별명 : *즈니*
 
