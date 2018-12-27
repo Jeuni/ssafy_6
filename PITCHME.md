@@ -5,11 +5,10 @@
 ---
 # 슬라이드 2
 
-![](img/Team_Jang.JPG)
-<img src="img/you1.jpg" width="100">
+<img src="img/Team_Jang.JPG" width="100">
 
 
-예 제가 팀장입니다. :p
+## 예 제가 팀장입니다. :p
 
 이름 : 이재우
 
