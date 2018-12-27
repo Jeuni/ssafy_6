@@ -4,8 +4,12 @@
 
 ---
 # 슬라이드 2
-예 제가 팀장입니다. :p
 
+![](https://github.com/Jeuni/ssafy-6-hotlife/blob/master/img/Team_Jang.JPG)
+예 제가 팀장입니다. :p
+이름 : 이재우
+별명 : 팀장님
+연말계획 : 가족들과 한잔두잔 비워지는 술잔....
 
 ---
 # 슬라이드 3
