@@ -4,17 +4,43 @@
 
 ---
 # 슬라이드 2
-## 제 별명은 곰입니다
+
+![](https://github.com/Jeuni/ssafy-6-hotlife/blob/master/img/Team_Jang.JPG)
+
+
+예 제가 팀장입니다. :p
+
+이름 : 이재우
+
+별명 : 팀장님
+
+연말계획 : 가족들과 한잔두잔 비워지는 술잔....
+
+
 
 ---
 # 슬라이드 3
-경일님
+
+이름 : 정경일
+별명 : 쿄옹
+연말계획 : 할머니댁 갑니다~
+12월 31일에 하고 싶은 것 : 이불 뒤집어 쓰고 뜨뜻한 방에서 귤 까먹기 
 
 ---
 # 슬라이드 4
 
 ## 저의 별명은 김생입니다.
-
+![you](img/you.jpg)   
+{:.some-css-class width="200"}
 ---
 # 슬라이드 5
 
+![](https://raw.githubusercontent.com/Jeuni/ssafy-6-hotlife/master/img/IMG_0110.JPG)
+
+이름 : 김지은 
+
+별명 : *즈니*
+
+git : @github/Jeuni
+
+---
