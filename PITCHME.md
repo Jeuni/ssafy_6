@@ -19,7 +19,7 @@
 
 ---
 # 슬라이드 3
-<img src="img/kyooong.jpg" width="100" height="100">
+<img src="img/kyooong.jpg" width="200" height="200">
 이름 : 정경일
 별명 : 쿄옹
 연말계획 : 할머니댁 갑니다~
