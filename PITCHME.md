@@ -5,7 +5,7 @@
 ---
 # 슬라이드 2
 
-<img src="img/Team_Jang.JPG" width="500">
+<img src="img/Team_Jang.JPG" width="300" height="500">
 
 ## 예 제가 팀장입니다. :p
 
