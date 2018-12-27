@@ -22,6 +22,7 @@
 <img src="img/kyooong.jpg" width="150" height="200">
 이름 : 정경일
 
+
 별명 : 쿄옹
 
 연말계획 : 시골에 내려갈 예정입니다.
