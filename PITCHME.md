@@ -5,7 +5,7 @@
 ---
 # 슬라이드 2
 
-![](https://github.com/Jeuni/ssafy-6-hotlife/blob/master/img/Team_Jang.JPG)
+![](https://github.com/Jeuni/ssafy-6-hotlife/blob/master/img/Team_Jang.JPG) {width : 200px;}
 예 제가 팀장입니다. :p
 이름 : 이재우
 별명 : 팀장님
