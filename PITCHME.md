@@ -23,7 +23,8 @@
 # 슬라이드 4
 
 ## 저의 별명은 김생입니다.
-
+![you](img/you.jpg)   
+{:.some-css-class width="200"}
 ---
 # 슬라이드 5
 
