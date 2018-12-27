@@ -23,7 +23,9 @@
 ---
 # 슬라이드 5
 
-이름 : 김지은 :smile:
+![](https://raw.githubusercontent.com/Jeuni/ssafy-6-hotlife/master/img/IMG_0110.JPG)
+
+이름 : 김지은 
 
 별명 : *즈니*
 
